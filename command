@@ -1,1 +1,1 @@
-summon Zombie ~ ~1 ~ {PersistenceRequired:1,Equipment:[{id:bow,tag:{display:{Name:www},ench:[{id:48,lvl:2}]}},{},{},{},{id:diamond_helmet}]}
+summon Zombie ~ ~1 ~ {PersistenceRequired:1,Equipment:[{id:diamond_sword,tag:{ench:[{id:16,lvl:4},{id:19,lvl:1}]}},{id:diamond_boots,tag:{ench:[{id:0,lvl:4}]}},{id:diamond_leggings,tag:{ench:[{id:0,lvl:4}]}},{id:diamond_chestplate,tag:{ench:[{id:0,lvl:4}]}},{id:diamond_helmet,tag:{ench:[{id:0,lvl:4}]}}],ActiveEffects:[{Id:1,Amplifier:0,Duration:999999},{Id:5,Amplifier:0,Duration:999999}]}
